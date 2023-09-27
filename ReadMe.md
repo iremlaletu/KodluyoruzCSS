@@ -1,0 +1,1 @@
+### This repo contains the Google 1998 version's homepage design which is the assignment of CSS traing from Kodluyoruz.org.
